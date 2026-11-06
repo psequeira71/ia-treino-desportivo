@@ -1,0 +1,46 @@
+IA NO TREINO DESPORTIVO — PEDRO SEQUEIRA
+======================================
+Aplicação móvel em formato web, criada a partir da apresentação de 13 slides (edição 2026).
+
+FICHEIRO MAIS SIMPLES
+--------------------
+Para abrir no telemóvel, usa o ficheiro separado:
+IA_Treino_Desportivo_App_Telemovel.html
+
+1. Envia o ficheiro .html para o teu telemóvel (Ficheiros, AirDrop, e-mail ou Drive).
+2. Abre-o num navegador compatível. Os slides estão dentro do próprio ficheiro.
+3. Navega pelos slides, utiliza os exercícios e cria prompts sem ligação à Internet.
+   As ligações externas para ferramentas precisam de Internet.
+
+VERSÃO INSTALÁVEL — ESTA PASTA
+-----------------------------
+Esta pasta é uma Progressive Web App (PWA), pronta para publicar num alojamento HTTPS.
+
+1. Publica o conteúdo da pasta num alojamento estático com HTTPS (por exemplo Netlify Drop,
+   GitHub Pages ou servidor institucional).
+2. Abre o endereço no Safari (iPhone) ou Chrome (Android).
+3. iPhone: Partilhar > Adicionar ao ecrã principal.
+   Android: Menu do navegador > Instalar aplicação / Adicionar ao ecrã principal.
+4. Depois de carregada, a aplicação funciona offline graças ao service worker.
+
+CONTEÚDO
+--------
+- 13 slides originais, em imagens otimizadas e com vista ampliada
+- Navegação por toque, setas e gesto de deslizar
+- Simulador didático de interpretação de carga/RPE (dados fictícios)
+- Planeamento semanal e etapas de vídeo, tática e investigação
+- 12 ferramentas com ligações externas
+- Laboratório de prompts com copiar e guardar .txt
+- Quiz de 6 questões com explicações
+
+PRIVACIDADE
+----------
+A aplicação não tem contas, servidores próprios, nem recolha de dados pessoais. O texto
+introduzido no laboratório é processado localmente no teu dispositivo; não é transmitido.
+O estado de navegação pode ficar guardado localmente no navegador.
+
+NOTA
+----
+É uma aplicação web / PWA, não um ficheiro APK (Android) ou IPA (iPhone).
+Para uma app nativa distribuída em loja seria necessário um processo adicional de empacotamento
+publicação e testes.
